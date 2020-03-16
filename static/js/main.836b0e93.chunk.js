@@ -1,0 +1,2 @@
+(this["webpackJsonprouter-tutorial"]=this["webpackJsonprouter-tutorial"]||[]).push([[0],{17:function(e,t,n){e.exports=n(27)},27:function(e,t,n){"use strict";n.r(t);var r=n(0),o=n.n(r),a=n(14),l=n.n(a),u=n(3);n(6);l.a.render(o.a.createElement(u.a,null,o.a.createElement("p",null,"Hello?")),document.getElementById("root"))}},[[17,1,2]]]);
+//# sourceMappingURL=main.836b0e93.chunk.js.map
