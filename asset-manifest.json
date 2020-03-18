@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/router-tutorial/static/js/main.bd98af13.chunk.js",
-    "main.js.map": "/router-tutorial/static/js/main.bd98af13.chunk.js.map",
+    "main.js": "/router-tutorial/static/js/main.ce869408.chunk.js",
+    "main.js.map": "/router-tutorial/static/js/main.ce869408.chunk.js.map",
     "runtime-main.js": "/router-tutorial/static/js/runtime-main.b20c6403.js",
     "runtime-main.js.map": "/router-tutorial/static/js/runtime-main.b20c6403.js.map",
-    "static/js/2.622d88d0.chunk.js": "/router-tutorial/static/js/2.622d88d0.chunk.js",
-    "static/js/2.622d88d0.chunk.js.map": "/router-tutorial/static/js/2.622d88d0.chunk.js.map",
+    "static/js/2.a7f353c1.chunk.js": "/router-tutorial/static/js/2.a7f353c1.chunk.js",
+    "static/js/2.a7f353c1.chunk.js.map": "/router-tutorial/static/js/2.a7f353c1.chunk.js.map",
     "index.html": "/router-tutorial/index.html",
-    "precache-manifest.5fa57b9245b77259186e9a174e5a74d9.js": "/router-tutorial/precache-manifest.5fa57b9245b77259186e9a174e5a74d9.js",
+    "precache-manifest.4b556f7ba834055504a85ae84a8aab68.js": "/router-tutorial/precache-manifest.4b556f7ba834055504a85ae84a8aab68.js",
     "service-worker.js": "/router-tutorial/service-worker.js",
-    "static/js/2.622d88d0.chunk.js.LICENSE.txt": "/router-tutorial/static/js/2.622d88d0.chunk.js.LICENSE.txt"
+    "static/js/2.a7f353c1.chunk.js.LICENSE.txt": "/router-tutorial/static/js/2.a7f353c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b20c6403.js",
-    "static/js/2.622d88d0.chunk.js",
-    "static/js/main.bd98af13.chunk.js"
+    "static/js/2.a7f353c1.chunk.js",
+    "static/js/main.ce869408.chunk.js"
   ]
 }
