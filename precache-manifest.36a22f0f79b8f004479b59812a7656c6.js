@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e4714605789e2ef0de190f7847d3c2f",
+    "revision": "20438cb6b57f8adb6fa42ce5d2b23dd8",
     "url": "/router-tutorial/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/router-tutorial/static/js/2.18b7df3f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46be54056aa21f114985",
-    "url": "/router-tutorial/static/js/main.76355d13.chunk.js"
+    "revision": "d0bdfde38e0ea48df2f2",
+    "url": "/router-tutorial/static/js/main.f3454d59.chunk.js"
   },
   {
     "revision": "da6477c21d76b545a6f2",
